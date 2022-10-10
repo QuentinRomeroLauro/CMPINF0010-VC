@@ -30,3 +30,4 @@ We chose the Do What You Want License because we thought it was entertaining and
 
 ### Code of Conduct
 ---
+Our code of conduct was chosen to ensure we create an inclusive place for people to be in community and contribute.
